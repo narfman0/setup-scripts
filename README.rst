@@ -11,6 +11,11 @@ Dawn of War Dark Crusade. This will work mostly out of the box, but I
 suggest you add dcunlock (race unlocker), community map pack, and ai
 script.
 
+CommandAndConquerGenerals
+-------------------------
+
+Command and Conquer Generals. Straightforward/vanilla install.
+
 CommandAndConquerGeneralsZH
 ---------------------------
 
