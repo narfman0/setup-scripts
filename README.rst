@@ -21,3 +21,11 @@ CommandAndConquerGeneralsZH
 
 Command and Conquer Generals: Zero hour. Needs normal generals
 installed beforehand.
+
+License
+-------
+
+Copyright Jon Robison 2017, thanks to all who originally contributed
+to these masterpieces :)
+
+Please see included license for more information
